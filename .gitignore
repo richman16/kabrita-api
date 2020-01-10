@@ -1,0 +1,5 @@
+node_modules
+key
+google-generated-creds.json
+data.json
+*._*
